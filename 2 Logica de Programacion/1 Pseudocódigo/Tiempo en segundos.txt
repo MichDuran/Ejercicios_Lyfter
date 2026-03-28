@@ -1,0 +1,19 @@
+### Tiempo en segundos
+
+1. Inicio
+2. Definir tiempo_en_seg
+3. Definir tiempo_restante
+4. Mostrar "Ingrese su tiempo en segundos"
+5. Pedir tiempo_en_seg
+6. Si (tiempo_en_seg > 600) entonces:
+	a. Mostrar "Mayor"
+8. Sino:
+	a. Si (tiempo_en_seg == 600) entonces:
+		i. Mostrar "Igual"
+	b. Sino:
+		i. tiempo_restante = 600 - tiempo_en_seg
+		ii. Mostrar "Para llegar a 10 minutos faltan estos segundos:"
+		iii. Mostrar tiempo_restante
+	c. FinSi
+9. FinSi
+10. Fin

@@ -1,0 +1,85 @@
+### Algoritmo de rutina diaria.
+1. Inicio
+2. Mientras el despertador no suene:
+  1. Continuar durmiendo
+3. Apagar despertador
+4. Estirar cuerpo y levantarse de la cama
+5. Ir al baño y lavarse las manos
+6. Regresar al cuarto
+  1. Por cada prenda de pijama:
+    1. Retirarse la prenda
+    2. Colocarse nueva prenda de ejercicio
+7. Ponerse tennis de ejercicio
+  1. Mientras las agujetas estén desamarradas
+    1. Amarrar agujetas bien sujetas
+9. Ir al gimnasio
+  1. Hacer rutina de calentamiento
+    1. Si hizo bicicleta y tiene sed:
+      1. Beber agua
+    2. Sino, si hizo caminadora y tiene sed:
+      1. Beber energizante
+    3. Sino: 
+      1. Estirar cuerpo y beber licuado
+  2. Hacer rutina de músculos del día
+    1. Por cada circuito:
+      1. Buscar máquinas disponibles
+      2. Colocar peso 
+      3. Hacer ejercicio respetando técnica
+      4. Tomar un descanso de 30seg
+  3. Hacer rutina de enfriamiento
+    1. Mientras el heart rate esté por encima de los 160 bps:
+      1. Continuar caminando
+      2. Continuar estirando
+10. Salir del gimnasio
+11. Ir a casa
+12. Preparar desayuno
+  1. Si hay fruta y yogurt:
+    1. Picar fruta 
+    2. Abrir refrigerador 
+    3. Sacar yogurt
+    4. Incorporar yogurt con fruta
+    5. Agregar avena
+  2. Sino, si hay huevos y jamón:
+    1. Sacar un sarten
+    2. Freir huevos
+      1. Abrir refrigerador
+      2. Sacar 2 huevos
+      3. Romper huevos en sarten para extraer la clara y yema
+      4. Tirar cáscaras en basura orgánica
+    3. Freir jamón
+      1. Abrir refrigerador
+      2. Sacar jamón
+      3. Cortar 2 rebanadas de jamón
+      4. Incorporar el jamón con el huevo
+  3. Sino:
+    1. Pensar en comprar desayuno y despensa
+13. Desayunar
+  1. Mientras uno no termine
+    1. Continuar comiendo
+14. Bañarse
+  1. Ir al baño con toalla en mano
+  2. Por cada prenda puesta:
+    1. Quitarse prenda
+    2. Colocarla en el cesto de ropa sucia
+  3. Abrir llave de agua tibia
+    1. Mientas el cuerpo esté sucio:
+      1. Mojar cuerpo
+      2. Mojar esponja de baño
+      3. Enjabonar esponja de baño
+      4. Tallar partes del cuerpo
+      5. Enjuagar 
+  4. Cerrar llave de agua
+  5. Tomar toalla y secarse
+    1. Si el cabello está mojado y el cuerpo está seco:
+      1. Secar cabello
+    2. Sino, si el cabello está seco y el cuerpo está mojado:
+      1. Secar cuerpo
+    3. Sino:
+      1. Salir del baño con toalla puesta
+15. Vestirse
+16. Ir a trabajar
+17. Regresar de trabajar
+18. Tomar 2 horas de curso de Lyfter
+19. Darse un baño rápido
+19. Dormir
+20. Fin

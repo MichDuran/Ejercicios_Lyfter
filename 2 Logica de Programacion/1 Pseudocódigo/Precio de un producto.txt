@@ -1,0 +1,19 @@
+### Cálculo del precio de un producto
+
+1. Inicio
+2. Definir precio_de_producto
+3. Definir descuento
+4. Definir precio_final
+5. Mostrar "Ingrese precio del producto"
+6. Pedir precio_de_producto
+7. Si (precio_de_producto < 100) entonces:
+	a. descuento = 0.02
+8. Sino
+	a. descuento = 0.1
+9. FinSi
+10. precio_final = precio_de_producto  - (precio_de_producto * descuento)
+11. Mostrar "Su descuento fue de"
+12. Mostrar descuento
+13. Mostrar "Su precio final es"
+14. Mostrar precio_final
+15. Fin
