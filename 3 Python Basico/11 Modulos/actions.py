@@ -60,10 +60,9 @@ def get_valid_section():
             
 def get_valid_grade(subject):
     while True:
-            grade = float(input(f"Ingrese la calificación de {subject}: "))
-            
+                        
             try:
-                grade = float(grade)
+                grade = float(input(f"Ingrese la calificación de {subject}: "))
                 if 0 <= grade <= 100:
                     return grade
                 else:
@@ -197,7 +196,7 @@ def delete_student(students):
     print("No se encontró un estudiante con ese nombre y sección.")
     
     
-def get_failed_students(students):
+def get_failed_students(student):
     failed_students = []
     
     if student["spanish"] < 60:
@@ -230,6 +229,6 @@ def show_failed_students(students):
             for subject, grade in failed_subjects:
                 print(f"{subject}: {grade}")
                 
-    if not found_failed == False:
+    if not found_failed:
         print("No hay estudiantes reprobados.")
            

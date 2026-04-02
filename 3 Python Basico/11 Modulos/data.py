@@ -1,10 +1,7 @@
 import csv
 
 
-file_name = "students.csv"
-
-
-def export_students(students):
+def export_students(students, file_name = "students.csv"):
     if len(students) == 0:
         print("No hay estudiantes para exportar.")
         return
@@ -28,7 +25,7 @@ def export_students(students):
         print(f"Error al exportar estudiantes: {e}")
         
         
-def import_students():
+def import_students(file_name = "students.csv"):
     students = []
     
     try:
@@ -38,10 +35,10 @@ def import_students():
                 student = {
                     "name": row["name"],
                     "section": row["section"],
-                    "spanish": int(row["spanish"]),
-                    "english": int(row["english"]),
-                    "sociales": int(row["sociales"]),
-                    "science": int(row["science"])
+                    "spanish": float(row["spanish"]),
+                    "english": float(row["english"]),
+                    "sociales": float(row["sociales"]),
+                    "science": float(row["science"])
                 }
                 students.append(student)
         print(f"Estudiantes importados exitosamente desde {file_name}.")
