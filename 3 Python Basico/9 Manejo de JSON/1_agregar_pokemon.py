@@ -2,7 +2,7 @@
 # Debe leer el archivo para importar los pokemones existentes.
 # Luego debe pedir la información del pokemon a agregar.
 # Finalmente debe guardar el nuevo pokemon en el archivo.
-
+# Se agrega este comentario para validación en GitHub
 
 import json
 

@@ -1,0 +1,26 @@
+PS C:\Users\michd\Downloads\Ejercicios_Lyfter> git log
+
+### 3er cambio 
+## Eliminé unos archivos de ejemplo que tenía para pruebas porque no son los ejercicios validados de las tareas.
+commit 22a94b17e1d5687d7a987faf173e815df45c363f (HEAD -> past-exercises, origin/past-exercises)
+Author: MichDuran <dmichellealejandro@yahoo.com.mx>
+Date:   Fri Mar 27 20:03:17 2026 -0600
+
+    Deleted example.py dummy files from validated activities
+
+### 2do cambio
+## Commit para subir todos los archivos de los primeros 3 módulos de Lyfter.
+commit 0a173bcd3ae48b30cbe7482948ca39b3ec55de14
+Author: MichDuran <dmichellealejandro@yahoo.com.mx>
+Date:   Fri Mar 27 19:41:07 2026 -0600
+
+    Uploading first exercises
+
+
+### 1er cambio
+## Este commit lo hace automáticamente GitHub para agregar el Readme.txt al repositorio.
+commit b82e02f616f585ec0970c5a5578c00ee8d1a3b41 (origin/main, origin/HEAD, main)
+Author: MichDuran <dmichellealejandro@yahoo.com.mx>
+Date:   Fri Mar 27 19:29:08 2026 -0600
+
+    Initial commit
