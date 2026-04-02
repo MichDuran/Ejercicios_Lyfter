@@ -1,0 +1,67 @@
+### Algoritmo: Preparar una fiesta sorpresa
+1. Inicio
+2. Planear fecha y lugar
+   1. Definir fecha y hora
+   2. Crear lista de invitados
+   3. Enviar invitaciones con instrucción: "No avisar al festejado"
+3. Preparar decoración y comida
+   1. Ir al lugar de la fiesta
+   2. Mientras la decoración no esté lista:
+      1. Inflar globos
+      2. Colocar mesa principal
+      3. Poner música en volumen bajo
+   3. Comprar o preparar pastel
+   4. Preparar botanas
+4. Verificar si el festejado está en casa
+   1. Si el festejado está en casa:
+      1. Pedir ayuda a un cómplice
+      2. Mientras el festejado siga en casa:
+         1. Mantenerlo distraído (salir a cenar o pasear)
+   2. Sino:
+      1. Continuar organización normalmente
+5. Esperar llegada de invitados
+   1. Mientras no hayan llegado todos los invitados:
+      1. Si llegan invitados:
+         1. Recibirlos en silencio
+         2. Indicar que apaguen luces o hablen bajo
+      2. Sino:
+         1. Revisar hora
+         2. Enviar mensaje recordatorio
+6. Momento sorpresa
+   1. Mientras el festejado esté en la puerta:
+      1. Contar hasta 3
+      2. Gritar "¡SORPRESA!"
+      3. Encender luces
+      4. Tomar fotos
+      5. Invitarlo a sentarse
+8. Festejar
+   1. Servir comida
+    1. Por cada invitado:
+      1. Tomar platos
+      2. Servir comida
+      3. Entregar platos a invitado
+   2. Cortar pastel
+    1. Por cada invitado:
+      1. Tomar platos
+      2. Servir una rebanada de pastel
+      3. Entregar pastel a invitado
+   3. Mientras haya invitados y energía:
+      1. Poner música
+      2. Bailar
+      3. Jugar dinámicas
+9. Finalizar la fiesta
+   1. Si ya es tarde o la mayoría de invitados se fue:
+      1. Agradecer asistencia
+      2. Entregar recuerdos
+  2. Si ya es tarde y los invitados siguen festejando:
+      1. Ir bajando de a poco la música
+      2. Agradecer asistencia
+      3. Entregar recuerdos
+  3. Sino:
+      1. Continuar con la fiesta
+10. Recoger
+  1. Mientras haya desorden:
+      1. Recoger basura
+      2. Guardar decoración
+   3. Despedirse del festejado
+11. Fin

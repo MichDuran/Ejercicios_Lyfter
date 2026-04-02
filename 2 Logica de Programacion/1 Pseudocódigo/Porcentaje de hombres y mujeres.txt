@@ -1,0 +1,36 @@
+### Porcentaje de hombres y mujeres
+
+1. Inicio
+2. Definir contador
+3. Definir sexo_persona
+4. Definir num_hombres
+5. Definir num_mujeres
+6. Definir porcentaje_hombres
+7. Definir porcentaje_mujeres
+8. contador = 1
+9. num_mujeres = 0
+10. num_hombres = 0
+11. Mientras que (contador <= 6) repetir:
+	a. Mostrar "Ingrese el sexo (1 si es mujer o 2 si es hombre) de la persona número"
+	b. Mostrar contador
+	c. Pedir sexo_persona
+	d. Si (sexo_persona == 1) entonces:
+		i. num_mujeres = num_mujeres + 1
+		ii. contador = contador + 1
+	e. Sino:
+		i. Si (sexo_persona == 2)
+			a. num_hombres = num_hombres + 1
+			b. contador = contador + 1
+		ii. Sino: 
+			b. Mostrar "Número inválido"
+		iii. FinSi
+	f. FinSi
+12. FinMientras
+13. porcentaje_mujeres = num_mujeres * 100 / 6
+14. porcentaje_hombres = num_hombres * 100 / 6
+15. Mostrar "El porcentaje de mujeres es de (%):"
+16. Mostrar porcentaje_mujeres
+17. Mostrar "El porcentaje de hombres es de (%):"
+18. Mostrar porcentaje_hombres
+19. Fin
+

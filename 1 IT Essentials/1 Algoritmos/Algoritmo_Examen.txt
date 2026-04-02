@@ -1,0 +1,22 @@
+### Algoritmo para prepararse para un examen
+1. Inicio
+2. Definir lista de actividades
+  1. Leer teoría
+  2. Repasar apuntes
+  3. Practicar ejercicios
+3. Mientras no me sienta listo:
+  1. Leer tema actual
+  2. Repasar apuntes
+  3. Practicar ejercicios
+  4. Si entiendo la materia:
+    1. Pasar al siguiente tema
+      1. Si ya terminé todos los temas:
+        1. Descansar
+        2. Preparar materiales para el examen
+      2. Sino:
+        1. Continuar con el siguiente tema
+  5. Sino:
+    1. Revisar nuevamente teoría
+    2. Buscar ejemplos adicionales
+    3. Investigar o preguntar para despejar dudas
+4. Fin

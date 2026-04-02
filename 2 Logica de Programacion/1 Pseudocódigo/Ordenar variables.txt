@@ -1,0 +1,23 @@
+### Ordenar variables
+
+1. Inicio
+2. Definir primero
+3. Definir segundo
+4. Definir temporal
+5. Mostrar "Ingrese su primer número A:"
+6. Pedir primero
+7. Mostrar "Ingrese su segundo número B:"
+8. Pedir segundo
+9. Si (primero > segundo) entonces:
+	a. temporal = primero
+	b. primero = segundo
+	c. segundo = temporal
+10. Sino:
+	a. //No hacer nada
+11. FinSi
+12. Mostrar "Su primer número ordenado de menor a mayor es A:"
+13. Mostrar primero
+14. Mostrar "Su segundo número ordenado de menor a mayor es B:"
+15. Mostrar segundo
+16. Fin
+

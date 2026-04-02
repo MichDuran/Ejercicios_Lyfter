@@ -1,0 +1,22 @@
+### Suma hasta el número deseado
+
+1. Inicio
+2. Definir numero_deseado
+3. Definir contador
+4. Definir suma_de_numero
+5. contador = 1
+6. suma_de_numero = 0
+7. Mostrar "Ingrese el número deseado para la suma"
+8. Pedir numero_deseado
+9. Si (numero_deseado == 0) entonces
+	a. Mostrar "Número no válido"
+10. Sino:
+	a. Mientras que (contador <= numero_deseado) repetir:
+		i. suma_de_numero = suma_de_numero + contador
+		ii. contador = contador + 1
+	b. FinMientras
+11. FinSi
+12. Mostrar "La suma progresiva hasta su número deseado es:"
+13. Mostrar suma_de_numero
+14. Fin
+
