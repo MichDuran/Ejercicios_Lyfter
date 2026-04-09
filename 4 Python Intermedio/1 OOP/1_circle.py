@@ -5,11 +5,13 @@
 import math
 
 class Circle:
-    radius = 0
-    def get_area(self, radius):
+    def __init__(self, radius):
+        self.radius = radius
+
+    def get_area(self):
         area = math.pi*(radius**2)
         return area
 
-my_area = Circle()
 radius = int(input("Ingrese su radio: "))
-print(f"Su área es de: {my_area.get_area(radius)}")
+my_area = Circle(radius)
+print(f"Su área es de: {my_area.get_area()} unidades al cuadrado")
