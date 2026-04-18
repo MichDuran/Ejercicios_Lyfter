@@ -4,14 +4,18 @@
 # Cada una de estas necesita los atributos respectivos para poder calcular el área y el perímetro.
 
 
+from abc import ABC, abstractmethod
 import math
 
-class Shape:
+class Shape(ABC):
+
+    @abstractmethod
     def calculate_perimeter(self):
-        raise NotImplementedError("Este método debe ser implementado por las subclases")
+        pass
     
+    @abstractmethod
     def calculate_area(self):
-        raise NotImplementedError("Este método debe ser implementado por las subclases")
+        pass
     
 
 class Circle(Shape):
