@@ -47,7 +47,7 @@ class LinkedList:
                 current.next = current.next.next
                 return
             current = current.next
-            raise ValueError(f"Valor {data} no encontrado en la LinkedList")
+        raise ValueError(f"Valor {data} no encontrado en la LinkedList")
 
     def print_all(self):
         current = self.head
